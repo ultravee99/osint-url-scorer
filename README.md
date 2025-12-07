@@ -58,6 +58,13 @@ URL Scorer adds a context menu option to your browser that allows you to quickly
 
 🚧 **In Development** - Project showcasing cybersecurity automation skills
 
+## Snapshots
+
+<img width="1002" height="815" alt="image" src="https://github.com/user-attachments/assets/75fc37df-bb22-487a-a5d0-3e70a55ba96d" />
+<img width="527" height="284" alt="image" src="https://github.com/user-attachments/assets/b07ba3a1-5e93-48b8-aaae-41c8218999dd" />
+<img width="333" height="241" alt="image" src="https://github.com/user-attachments/assets/22c5c31e-c851-4afa-a654-6fde92e10fec" />
+
+
 ## Future Enhancements
 
 - Historical URL scanning data
